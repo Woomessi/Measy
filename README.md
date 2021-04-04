@@ -1,10 +1,10 @@
-# measy
+# Measy
 
-A new Flutter application.
+We make Mechanical Engineering easy. This App is developed via a plugin on Android Studio called 'Flutter', which ensures the possibility and compatibility of the cross-platform application on both iOS and Android devices;
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
