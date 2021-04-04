@@ -2,7 +2,6 @@
 
 We make Mechanical Engineering easy. This App is developed via a plugin on Android Studio called 'Flutter', which ensures the possibility and compatibility of the cross-platform application on both iOS and Android devices;
 
-image(C:\Users\吴宏瑞\Desktop\资源 3xxxhdpi.png)
 
 ## Getting Started
 
