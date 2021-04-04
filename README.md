@@ -1,11 +1,7 @@
 # Measy
-
-
+## Overview
 We make Mechanical Engineering easy. This App is developed via a plugin on Android Studio called 'Flutter', which ensures the possibility and compatibility of the cross-platform application on both iOS and Android devices;
-
-
-
-
+![image](https://github.com/Woomessi/Measy/blob/main/illustrator/drawable-xxxhdpi/%E5%90%AF%E5%8A%A8%E9%A1%B5.png)
 
 ![image](https://github.com/Woomessi/Measy/blob/main/illustrator/94xy.com%402x.png)
 
